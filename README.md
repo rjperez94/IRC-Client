@@ -31,17 +31,17 @@ Quit - logout froms server and exit program
 
 **This is a client ONLY**
 
-Message of the Day - see MOTD
-Rules - see server's rules
-Users - current users in server
-List Channels - current chanels in server
-Channel Name to Join/Make - join channel with `name`. (make it if there is none)
-Name of Recent Channel Joined - current or latest channel joined
-Channel to Send meassage to All - sends a message to all users in that channel. (type channel name)
-User to Send Message To - sends a message to individual. (type user login)
-Who Is - send `WHOIS` command with user login as argument
-Info - get information about the server
-Is On - see if user is logged in
-Network Map of Server - send `MAP` command to server
-Help - display server's help text
-What's the Time - send `TIME` command to server
+<p> Message of the Day - see MOTD
+<p> Rules - see server's rules
+<p> Users - current users in server
+<p> List Channels - current chanels in server
+<p> Channel Name to Join/Make - join channel with `name`. (make it if there is none)
+<p> Name of Recent Channel Joined - current or latest channel joined
+<p> Channel to Send meassage to All - sends a message to all users in that channel. (type channel name)
+<p> User to Send Message To - sends a message to individual. (type user login)
+<p> Who Is - send `WHOIS` command with user login as argument
+<p> Info - get information about the server
+<p> Is On - see if user is logged in
+<p> Network Map of Server - send `MAP` command to server
+<p> Help - display server's help text
+<p> What's the Time - send `TIME` command to server
